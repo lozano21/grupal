@@ -18,7 +18,7 @@ and open the template in the editor.
             echo 'hola';
         }
         function funcion2() {
-            echo 'hola';
+            echo 'dic-hola';
         }
         
         
