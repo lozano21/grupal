@@ -15,10 +15,10 @@ and open the template in the editor.
             echo 'hola';
         }
         function funcion3() {
-            echo 'VCJ-hola';
+            echo 'hola';
         }
         function funcion2() {
-            echo 'hola';
+            echo 'dic-hola';
         }
         
         
