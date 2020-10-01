@@ -12,13 +12,13 @@ and open the template in the editor.
     <body>
         <?php
         function funcion1() {
-            echo 'hola';
+            echo 'adios';
         }
         function funcion3() {
-            echo 'hola';
+            echo 'adios';
         }
         function funcion2() {
-            echo 'hola';
+            echo 'dic-adios';
         }
         
         
