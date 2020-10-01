@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         function funcion1() {
-            echo 'OL-hola';
+            echo 'hola';
         }
         function funcion3() {
             echo 'hola';
